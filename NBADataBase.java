@@ -2,8 +2,8 @@
  * @(#)NBADataBase.java
  *
  *
- * @author 
- * @version 1.00 2015/2/23
+ * @author Daem Khan
+ *  2015/2/23
  */
 
 import java.io.*;
